@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Absensi Siswa Berbasis QR Code SMP",
+  "description": "Sistem manajemen absensi dan presensi siswa berbasis QR Code untuk SMP dengan verifikasi kehadiran real-time, cetak kartu QR, dan laporan terpadu.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
